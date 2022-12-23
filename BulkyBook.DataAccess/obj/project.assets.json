@@ -2887,6 +2887,9 @@
       "BulkyBook.Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5"
+        },
         "compile": {
           "bin/placeholder/BulkyBook.Model.dll": {}
         },
