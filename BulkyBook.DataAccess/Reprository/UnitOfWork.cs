@@ -1,6 +1,7 @@
 ﻿using BulkyBook.DataAccess;
 using BulkyBook.DataAccess.Data;
 using BulkyBook.DataAccess.Reprository.IReprository;
+using BulkyBook.Model.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,6 +22,8 @@ namespace BulkyBook.DataAccess.Reprository
             Company = new CompanyRepository(_db);
             ShoppingCart = new ShoppingCartRepository(_db);
             ApplicationUser = new ApplicationUserRepository(_db);
+            OrderHeader = new OrderHeaderRepository(_db);
+			OrderDetail = new OrderDetailRepository(_db);
         }
         public ICategoryRepository Category { get; private set; }
 
@@ -32,7 +35,11 @@ namespace BulkyBook.DataAccess.Reprository
 
         public IApplicationUserRepository ApplicationUser { get; private set; }
 
-        public void Save()
+		public IOrderHeaderRepository OrderHeader { get; private set; }
+
+		public IOrderDetailRepository OrderDetail { get; private set; }
+
+		public void Save()
         {
             _db.SaveChanges();
         }

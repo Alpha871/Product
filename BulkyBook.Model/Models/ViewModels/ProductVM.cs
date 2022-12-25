@@ -9,7 +9,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BulkyBook.DataAccess.ViewModels
+
+namespace BulkyBook.Model.Models.ViewModels
 {
 	public class ProductVM
 	{
