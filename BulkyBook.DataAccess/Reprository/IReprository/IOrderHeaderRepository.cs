@@ -12,5 +12,6 @@ namespace BulkyBook.DataAccess.Reprository.IReprository
     {
         void Update(OrderHeader obj);
         void UpdateStatus(int id, string OrderStatus, string? paymentStatus=null);
+        void UpdateStripePayment(int id, string sessionId, string paymentItentId);
     }
 }
