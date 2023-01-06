@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyBookWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\css\\bootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\Act of Oblivion.jpg",
+      "PackagePath": "staticwebassets\\images\\Act of Oblivion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\GiantBook.jpg",
+      "PackagePath": "staticwebassets\\images\\GiantBook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\How to Win Friends and Influence People.jpg",
+      "PackagePath": "staticwebassets\\images\\How to Win Friends and Influence People.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\Spider.jpg",
+      "PackagePath": "staticwebassets\\images\\Spider.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\Sunset.jpg",
+      "PackagePath": "staticwebassets\\images\\Sunset.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\Who Moved My Cheese.jpg",
+      "PackagePath": "staticwebassets\\images\\Who Moved My Cheese.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\fortune.jpg",
+      "PackagePath": "staticwebassets\\images\\fortune.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\jungle.jpg",
+      "PackagePath": "staticwebassets\\images\\jungle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\products\\0773d62c-fdab-4aa0-bb70-a7c5bdd8d85e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\0773d62c-fdab-4aa0-bb70-a7c5bdd8d85e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\products\\39cd9acf-8f67-43b9-8d3d-22d8e55793a2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\39cd9acf-8f67-43b9-8d3d-22d8e55793a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\products\\4ce81f74-0443-49d4-93bb-a554e5bfa7a5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\4ce81f74-0443-49d4-93bb-a554e5bfa7a5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\products\\74e80ff6-d8fe-4d17-a132-b5d10b34d015.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\74e80ff6-d8fe-4d17-a132-b5d10b34d015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\products\\7c925f43-c4f3-4215-b4dd-a1423ee81940.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7c925f43-c4f3-4215-b4dd-a1423ee81940.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\products\\910edb6d-09f5-4689-9a31-4abddb3056a7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\910edb6d-09f5-4689-9a31-4abddb3056a7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\products\\b015f546-fa33-4a31-9ca3-127d48923828.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b015f546-fa33-4a31-9ca3-127d48923828.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\products\\c9132d88-4333-4c47-a422-ed129657fb99.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\c9132d88-4333-4c47-a422-ed129657fb99.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\products\\ef5c4568-c335-4819-b2fd-d71b06218431.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ef5c4568-c335-4819-b2fd-d71b06218431.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\images\\tr.svg",
+      "PackagePath": "staticwebassets\\images\\tr.svg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha Bah\\Desktop\\Product\\BulkyBookWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BulkyBookWeb.props",
+      "PackagePath": "build\\BulkyBookWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyBookWeb.props",
+      "PackagePath": "buildMultiTargeting\\BulkyBookWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BulkyBookWeb.props",
+      "PackagePath": "buildTransitive\\BulkyBookWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
