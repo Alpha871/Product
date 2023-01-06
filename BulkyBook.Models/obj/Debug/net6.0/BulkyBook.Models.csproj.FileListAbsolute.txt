@@ -1,0 +1,1197 @@
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.deps.json
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.pdb
+E:\_AspNet\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache
+E:\_AspNet\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\_AspNet\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache
+E:\_AspNet\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfo.cs
+E:\_AspNet\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+E:\_AspNet\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\refint\BulkyBook.Models.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+E:\_AspNet\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\mscorlib.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\netstandard.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Console.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Core.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Data.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Memory.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Json.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Web.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Windows.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\_AspNet\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.deps.json
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.pdb
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\mscorlib.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\netstandard.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Console.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Core.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Data.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Memory.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Web.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Windows.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfo.cs
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\refint\BulkyBook.Models.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.deps.json
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.pdb
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\mscorlib.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\netstandard.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Console.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Core.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Data.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Memory.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Web.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Windows.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfo.cs
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\refint\BulkyBook.Models.dll
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+D:\KANTE\SAU\3_Year\Web programming\doc\HomeWork\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.deps.json
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\refint\BulkyBook.Models.dll
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\Alpha Bah\Downloads\B191210559_SEIDY_KANTE\B191210559_WebProgrammingProject\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
